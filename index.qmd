@@ -1,8 +1,17 @@
 ---
-title: "haumesserph.github.io"
+title: "Paul-Henri HAUMESSER"
+image: media/headshot.jpg
+toc: false
+about: 
+    template: jolla
+    image-shape: round
+    image-width: 17em
+    links:
+    - icon: linkedin
+      href: https://www.linkedin.com/in/phhaumesser/
+      target: _blank
+    - icon: envelope
+      href: mailto:paul.haumesser@cea.fr
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-test2

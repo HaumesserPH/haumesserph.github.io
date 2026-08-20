@@ -3,8 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "haumesserph.github.io"
+  title: "Paul-Henri HAUMESSER"
   navbar:
+    tools:
+      - icon: linkedin
+        href: www.linkedin.com/in/phhaumesser   
+        target: _blank
+      - icon: envelope
+        target: mailto:paul.haumesser@cea.fr
     left:
       - href: index.qmd
         text: Home
@@ -13,10 +19,11 @@ website:
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      dark: darkly
+      light: flatly
     css: styles.css
     toc: true
+    page-layout: full
 
 
 
