@@ -1,0 +1,9 @@
+---
+title: "My recent publications"
+bibliography: media/mybib.bib
+nocite: "@*"  # Includes ALL entries in the .bib file
+csl: ieee-micro.csl
+---
+
+::: {#refs}
+:::

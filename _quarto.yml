@@ -11,10 +11,14 @@ website:
         target: _blank
       - icon: envelope
         target: mailto:paul.haumesser@cea.fr
-    left:
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: publications.qmd
+        text: Publications
+  page-footer:
+    left: Copyright 2026, Paul-Henri Haumesser
+    right: This website is built with {{< fa heart title="a heart" >}}, [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/https://github.com/HaumesserPH/haumesserph.github.io){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
 
 format:
   html:

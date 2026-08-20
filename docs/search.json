@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "My recent publications",
+    "section": "",
+    "text": "[1] L. Bou Tannous et al., “Effect of Surface Chemistry on the Electrical Double Layer in a Long-Chain Ionic Liquid,” Langmuir, vol. 39, no. 47, pp. 16785–16796, Nov. 2023, doi: 10.1021/acs.langmuir.3c02123.\n\n\n[2] M. Coudray et al., “Direct Extraction of Platinum Nanoparticles from Fuel Cells with Ionic Liquids: Part 2. Impact of the Nafion Ionomer Swelling,” Industrial & Engineering Chemistry Research, vol. 62, no. 16, pp. 6367–6377, Apr. 2023, doi: 10.1021/acs.iecr.2c04525.\n\n\n[3] P.-H. Haumesser, C. C. Santini, L. Massin, and J.-L. Rousset, “Co-precipitation of MnO and Cu in an ionic liquid as a first step toward self-formed barrier layers,” New Journal of Chemistry, vol. 44, no. 1, pp. 265–272, 2020, doi: 10.1039/C9NJ03842F.\n\n\n[4] B. Morcos, P. Lecante, R. Morel, P.-H. Haumesser, and C. C. Santini, “Magnetic, Structural, and Chemical Properties of Cobalt Nanoparticles Synthesized in Ionic Liquids,” Langmuir, vol. 34, no. 24, pp. 7086–7095, 2018, doi: 10.1021/acs.langmuir.8b00271."
   }
 ]
