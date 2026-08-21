@@ -1,9 +1,20 @@
 ---
-title: "My recent publications"
-bibliography: media/mybib.bib
+title: "Selected publications"
+filters:
+  - multibib
+validate-yaml: false
+bibliography:
+    recent: media/recent.bib
+    books: media/books.bib
 nocite: "@*"  # Includes ALL entries in the .bib file
-csl: ieee-micro.csl
 ---
 
-::: {#refs}
+You can find a complete list of my publications [here](https://scholar.google.fr/citations?hl=fr&user=TuDj64YAAAAJ&view_op=list_works&sortby=pubdate). Otherwise, fell free to browse the references below!
+
+## Recent articles
+::: {#refs-recent}
+:::
+
+## Book
+::: {#refs-books}
 :::
