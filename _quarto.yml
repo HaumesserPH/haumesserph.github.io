@@ -22,9 +22,7 @@ website:
 
 format:
   html:
-    theme:
-      dark: darkly
-      light: flatly
+    theme: flatly
     css: styles.css
     toc: true
     page-layout: full
