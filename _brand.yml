@@ -9,7 +9,6 @@ color:
     cyanide: "#3498DB"
     orange: "#f39c12"
 
-
   foreground: darkblue
   background: light
   primary: darkblue
@@ -19,5 +18,8 @@ color:
   info: lightblue
   warning: orange
   danger: red
-  light: white
+  light: light
   dark: "#404041"
+
+logo: 
+  medium: media/logo_no.png
