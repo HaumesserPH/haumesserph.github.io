@@ -3,15 +3,23 @@ title: "Paul-Henri HAUMESSER"
 image: media/headshot.jpg
 toc: false
 about: 
-    template: jolla
+    template: trestles
     image-shape: round
-    image-width: 17em
+    image-width: 15em
     links:
     - icon: linkedin
       href: https://www.linkedin.com/in/phhaumesser/
       target: _blank
-    - icon: envelope
+    - icon: envelope-fill
       href: mailto:paul.haumesser@cea.fr
 ---
 
+**Welcome here!**
 
+I am a research scientist at CEA-Leti, Grenoble, France.
+
+I am specialized in applied electrochemistry, with a focus on metal deposition and associated processes (electrodeposition and electroless deposition) and nanoparticle synthesis.
+
+I manage research projects in collaboration with academic and industrial partners, mostly aiming at applications in microelectronics.
+
+I have a background education in chemistry and materials sciences, with emphasis on elaboration (thin films, Czochralski) and characterization techniques.
